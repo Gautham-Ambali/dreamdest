@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "ed2d",
+      "cityName": "Thamarassery",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-23T14:56:11.661Z",
+      "notes": "",
+      "position": {
+        "lat": "11.43695521614319",
+        "lng": "75.93750000000001"
+      }
+    },
+    {
+      "id": "beb4",
+      "cityName": "Shirol",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-23T14:57:30.633Z",
+      "notes": "",
+      "position": {
+        "lat": "16.720385051694",
+        "lng": "74.48730468750001"
+      }
+    },
+    {
+      "id": "b098",
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-24T13:50:08.436Z",
+      "notes": "",
+      "position": {
+        "lat": "12.940322128384627",
+        "lng": "77.56347656250001"
+      }
+    },
+    {
+      "id": "11ad",
+      "cityName": "Mawathagama",
+      "country": "Sri Lanka",
+      "emoji": "🇱🇰",
+      "date": "2024-09-24T13:50:38.996Z",
+      "notes": "",
+      "position": {
+        "lat": "7.36246686553575",
+        "lng": "80.41992187500001"
+      }
+    }
+  ]
+}
